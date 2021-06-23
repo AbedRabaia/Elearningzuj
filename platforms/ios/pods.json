@@ -1,0 +1,18 @@
+{
+    "declarations": {},
+    "sources": {},
+    "libraries": {
+        "FirebaseMessaging": {
+            "name": "FirebaseMessaging",
+            "type": "podspec",
+            "spec": "~> 2.0.0",
+            "count": 1
+        },
+        "OneSignal": {
+            "name": "OneSignal",
+            "type": "podspec",
+            "spec": "2.16.2",
+            "count": 1
+        }
+    }
+}
