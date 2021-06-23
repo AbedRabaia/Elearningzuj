@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "881809614108",
+    "project_id": "zuj-elearning",
+    "storage_bucket": "zuj-elearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881809614108:android:32452215d26a66ee46c6d9",
+        "android_client_info": {
+          "package_name": "com.zujapps.elearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881809614108-trpj6sudu10ku53ij6q1tae4iik5fm0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByiea692U2yCDGyjTpPZ_KMFGoFtS-s6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881809614108-trpj6sudu10ku53ij6q1tae4iik5fm0u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881809614108-sfc8qqrqbln0vdgub579jgkdua8rbfpu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zujapps.elearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
